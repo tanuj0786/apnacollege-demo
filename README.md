@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first Git Repository.
+This Is My First Git Repository.
 <br>
 Author - Tanuj Bairwa
